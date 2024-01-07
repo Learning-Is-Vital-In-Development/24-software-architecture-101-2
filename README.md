@@ -22,6 +22,7 @@
   - [하재권](https://github.com/JaekwonHa)
   - 정예진
   - 문지은
+  - 이준호
 
 ## 핵심 스터디 결과물
 
